@@ -1,4 +1,4 @@
 # Advent-2020
-Learning some Python while taking a vacation apparently. All code here is for fun and learning purposes. 
+This is a fun, annual coding problem calendar starting every December 1st. Problems for 2020 may be found here: https://adventofcode.com/2020
 
-In particular, I'll warn the curious that not all code is well commented. I may go back and change this, but I'll certainly include comments in the problems I find more interesting/involved. 
+I used this as a way to quickly learn python. I have since moved onto other, more involved, independent projects in python. 
